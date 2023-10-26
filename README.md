@@ -1,5 +1,5 @@
 # Patho_grading_GUI
-CSE583 Project (AUT 2023) (zexyang_testing)
+CSE583 Project (AUT 2023) 
 
 
 
@@ -32,8 +32,4 @@ python GUI.py 2D
 ```
 
 
-
-
-Gooooo 00 000
-=======
 
