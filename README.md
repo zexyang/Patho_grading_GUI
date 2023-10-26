@@ -1,8 +1,5 @@
 # Patho_grading_GUI
 
-CSE583 Project (AUT 2023) (zexyang_testing)
-Try the merge
-
 CSE583 Project (AUT 2023) 
 
 
