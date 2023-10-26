@@ -2,6 +2,7 @@
 CSE583 Project (AUT 2023)
 
 
+
 ## System requirements
 The following packages are required, many of which come with Python. This code has been tested with the version number indicated, though other versions may also work.
 - numpy 1.23.3
@@ -10,6 +11,7 @@ The following packages are required, many of which come with Python. This code h
 - seaborn 0.12.2
 - scikit-learn 1.1.3
 - scipy 1.9.3
+
 
 ## Data
 Number of biopsy (filtered) : 145
@@ -28,3 +30,6 @@ Number of patients (filtered) : 52
 ```bash
 python GUI.py 2D
 ```
+
+
+
